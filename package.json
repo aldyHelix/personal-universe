@@ -1,0 +1,22 @@
+{
+  "name": "personal-universe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldyHelix/personal-universe.git"
+  },
+  "author": "aldyhelix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldyHelix/personal-universe/issues"
+  },
+  "homepage": "https://github.com/aldyHelix/personal-universe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
